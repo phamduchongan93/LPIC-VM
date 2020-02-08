@@ -12,4 +12,14 @@ Currently, I only build with libvirt since they are proven to be more efficient 
 4.0 Managing the filesystem
 5.0 Administering Advanced storage devices
 6.0 Navigating Network Services
+### Objecjectives ###
+- Capacity planning
+- The linux kernel
+- System statup
+- Advance storage administration
+- Network Configuration
+- System Maintenance
+
+
+
 
